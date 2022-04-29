@@ -1,17 +1,12 @@
-header{
+body{
+  background-color: #FEF7F6
+}
+h1{
   position: relative;
   margin: 21.44px 0px
   font-family: 'Fira Sans',sans-serif;
   font-size: 32px
   color: #DCD0FF;
-}
-body{
-  background-color: #FEF7F6
-}
-h1{
-color: purple;
-padding:20px;
-font-family:'Fira Sans',sans-serif;
 }
 h2{
 color: purple;
@@ -19,6 +14,11 @@ padding:20px;
 font-family:'Fira Sans',sans-serif;
 }
 h3{
+color: purple;
+padding:20px;
+font-family:'Fira Sans',sans-serif;
+}
+h4{
 color: purple;
 padding:20px
 font-family:'Fira Sans',sans-serif;
