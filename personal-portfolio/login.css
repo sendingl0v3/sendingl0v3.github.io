@@ -10,5 +10,9 @@ video {
   position: relative;
   font-family: "Neue Haas Unica Pro";
   color: purple;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
  
