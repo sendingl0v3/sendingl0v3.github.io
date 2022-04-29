@@ -1,24 +1,26 @@
 header{
   position: relative;
+  margin: 21.44px 0px
   font-family: 'Fira Sans',sans-serif;
-  font-size: 0.75em
+  font-size: 32px
   color: #DCD0FF;
-body {
-padding-left: 11em;
-font-family: Vera, "DejaVu Sans Mono",
-Times, serif;
+}
+h1{
 color: purple;
+padding-left: 11em;
+font-family:'Fira Sans',sans-serif;
 background-color: #FEF7F6
 }
-Head {
-  position: absolute;
-  top: 2em;
-  left: 1em;
-  width: 9em;
-  font-family: 'Fira Sans',sans-serif;
-  color: purple;
-  background-color: #FEF7F6
- }
-  
-  
-=
+h2{
+color: purple;
+padding-left: 11em;
+font-family:'Fira Sans',sans-serif;
+background-color: #FEF7F6
+}
+h3{
+color: purple;
+padding-left: 11em;
+font-family:'Fira Sans',sans-serif;
+background-color: #FEF7F6
+}
+
