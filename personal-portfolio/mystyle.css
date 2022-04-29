@@ -1,24 +1,31 @@
+html { 
+  background: https://drive.google.com/file/d/1yqCcWEpCaa7E3cyMljUhcdiuFLZ-WKkP/view?usp=sharing(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 body{
   background-color: #FEF7F6
 }
 h1{
-  margin: 21.44px 0px
+  margin: 21.44px 0px;
   font-family: 'Fira Sans',sans-serif;
   font-size: 32px
-  color: purple;
+  color: white;
 }
 h2{
- color: purple;
+ color: white;
  padding:20px;
  font-family:'Fira Sans',sans-serif;
 }
 h3{
- color: purple;
+ color: white;
  padding:20px;
  font-family:'Fira Sans',sans-serif;
 }
 h4{
- color: purple;
+ color: white;
  padding:20px
  font-family:'Fira Sans',sans-serif;
 }
