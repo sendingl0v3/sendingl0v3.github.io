@@ -6,13 +6,20 @@ video {
   height: 100%;
   width: 100%;
 }
- <div class="header">
+
+.video-wrapper {
+  border: .5px #FEFEFE;
+  width: 400px;
+  height: 200px;
   position: relative;
-  font-family: "Neue Haas Unica Pro";
-  color: purple;
+  overflow: hidden;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
 }
- 
+.header{
+  position: relative;
+  font-family: "Neue Haas Unica Pro
+  color: purple;
+}
