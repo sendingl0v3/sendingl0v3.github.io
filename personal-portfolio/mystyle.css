@@ -1,12 +1,10 @@
-html { 
-  background: https://drive.google.com/file/d/1yqCcWEpCaa7E3cyMljUhcdiuFLZ-WKkP/view?usp=sharing(images/bg.jpg) no-repeat center center fixed; 
+
+body{
+background: https://drive.google.com/file/d/1yqCcWEpCaa7E3cyMljUhcdiuFLZ-WKkP/view?usp=sharing(images/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-body{
-  background-color: #FEF7F6
 }
 h1{
   margin: 21.44px 0px;
