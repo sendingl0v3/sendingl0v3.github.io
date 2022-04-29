@@ -6,10 +6,9 @@ video {
   height: 100%;
   width: 100%;
 }
-.body {
+ <div class="header">
   position: relative;
   font-family: "Neue Haas Unica Pro";
   color: purple;
-background-color: #FEF7F6
 }
  
