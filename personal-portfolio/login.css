@@ -6,15 +6,10 @@ video {
   height: 100%;
   width: 100%;
 }
-body {
-padding-left: 11em;
-font-family: "Neue Haas Unica Pro";
-Vera, "DejaVu Sans Mono",
-color: purple;
+.body {
+  position: relative;
+  font-family: "Neue Haas Unica Pro";
+  color: purple;
 background-color: #FEF7F6
 }
  
-.header{
-  position: relative;
-  color: purple
-}
