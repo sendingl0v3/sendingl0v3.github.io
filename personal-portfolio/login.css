@@ -9,8 +9,8 @@ video {
 
 .video-wrapper {
   border: .5px #FEFEFE;
-  width: 400px;
-  height: 200px;
+  width: 100%;
+  height: 100%;
   position: relative;
   overflow: hidden;
   text-align: center;
@@ -20,6 +20,7 @@ video {
 }
 .header{
   position: relative;
-  font-family: "Neue Haas Unica Pro
-  color: purple;
+  font-family: 'Fira Sans',sans-serif;
+  font-size: 0.75em
+  color: #DCD0FF;
 }
