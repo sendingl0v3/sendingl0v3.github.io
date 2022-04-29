@@ -5,22 +5,22 @@ header{
   font-size: 32px
   color: #DCD0FF;
 }
+body{
+  background-color: #FEF7F6
+}
 h1{
 color: purple;
-padding-left: 11em;
+padding:20px;
 font-family:'Fira Sans',sans-serif;
-background-color: #FEF7F6
 }
 h2{
 color: purple;
-padding-left: 11em;
+padding:20px;
 font-family:'Fira Sans',sans-serif;
-background-color: #FEF7F6
 }
 h3{
 color: purple;
-padding-left: 11em;
+padding:20px
 font-family:'Fira Sans',sans-serif;
-background-color: #FEF7F6
 }
 
